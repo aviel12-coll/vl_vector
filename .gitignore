@@ -1,0 +1,24 @@
+# Ignore build directories
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Ignore executables and object files
+*.exe
+*.o
+*.obj
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.iml
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Archives
+*.tar
+*.zip
